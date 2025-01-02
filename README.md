@@ -1,16 +1,22 @@
-## Hi there 👋
+Hi there 👋
 
-<!--
-**Laja1/laja1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Laja, a passionate software developer with a focus on building user-centric web and mobile applications. Here's a bit about me:
 
-Here are some ideas to get you started:
+🔧 Currently working on: The frontend of Nextrole.io, an AI-driven job search platform offering personalized recommendations and application tracking.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning: Game development and enhancing my skills in React Native and Redux Toolkit.
+
+✨ Previous projects include:
+
+Contributing to VendorCredit’s mobile app as a freelancer during my NYSC.
+
+🤝 Looking to collaborate on: Innovative projects in fintech, game development, or e-commerce.
+
+🔎 Ask me about: React, React Native, frontend architecture, or integrating complex APIs.
+
+📧 How to reach me: ifeadelaja@gmail.com
+
+⚔️ Fun fact: I’m a Chelsea FC and Milwaukee Bucks fan who loves breaking down shows, movies, and anime on my YouTube channel, The Binge Panel.
+
+Let’s build something amazing together! 🌟
+
